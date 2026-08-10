@@ -45,4 +45,3 @@ jobs:
           plugin_topics_mode: icons
           plugin_topics_sort: stars
           plugin_topics_limit: 15
-          commit_message: "chore(metrics): update GitHub profile metrics"
