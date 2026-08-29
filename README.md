@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I'm currently working on ... this file?
-- 🌱 I'm currently learning ... hoo to .md
+- 🌱 I'm currently learning ... how to .md
 - 👯 I'm looking to collaborate on ... 
 - 🤔 I'm looking for help with ... money
 - 💬 Ask me about ... no, don't do it
